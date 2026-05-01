@@ -34,8 +34,8 @@
 ### 🧮 [Calculator MK1](https://github.com/Divyakumbar/Calculator)
 > A sleek dark-themed calculator built with HTML, CSS & JavaScript featuring keyboard support and smooth animations.
 
-### ✨ LUMIÈRE — AI Beauty Enhancement Studio
-> React-based AI photo enhancement tool using Claude API to generate poetic beauty descriptions and enhancement prompts for Midjourney, Stable Diffusion & DALL-E.
+### ✅ To Do List
+> A clean and functional task management app to add, complete, and delete daily tasks — built with HTML, CSS & flask.
 
 ---
 
@@ -59,7 +59,12 @@
 ## 📫 Connect With Me
 
 <p align="left">
+  <a href="https://github.com/Divyakumbar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/divya-kumbar-209540377">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -70,19 +75,3 @@
 </p>
 
 <p align="center">⭐ <i>From <a href="https://github.com/Divyakumbar">Divyakumbar</a> with 💙</i></p>
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DivyaKumbar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DivyaKumbar&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKumbar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DivyaKumbar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=DivyaKumbar&icon=1&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
