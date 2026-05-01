@@ -1,4 +1,4 @@
-# Hi there, I'm Divya Kumar 👋
+# Hi there, I'm Divya Kumbar 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Final+Year+BCA+Student;Aspiring+AI+%26+ML+Engineer;Building+Creative+AI+Apps;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
