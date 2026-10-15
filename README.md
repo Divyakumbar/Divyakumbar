@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year **BCA Student**
+- 🎓 **BCA Student** Graduate
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 💡 Love building creative apps that blend **AI + beautiful UI**
 - 🌱 Currently learning **React, Claude API, and ML frameworks**
