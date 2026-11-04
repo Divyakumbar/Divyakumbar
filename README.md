@@ -1,7 +1,7 @@
 # Hi there, I'm Divya Kumbar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=BCA+Graduate;Aspiring+AI+%26+ML+Engineer;Building+Creative+AI+Apps;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=BCA+Graduate;Aspiring+AI+%26+ML+Engineer;Building+Creative+Apps;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,11 +18,22 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,vscode&theme=dark" />
+</p>💻 Languages
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+
+⚙️ Frameworks & Tools
+
+- Flask
+- Git
+- GitHub
+- VS Code
 
 ---
 
@@ -34,13 +45,15 @@
 ### ✅ To Do List
 > A clean and functional task management app to add, complete, and delete daily tasks — built with HTML, CSS & flask.
 
+###
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyakumbar&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyakumbar&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Divyakumbar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Divyakumbar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
