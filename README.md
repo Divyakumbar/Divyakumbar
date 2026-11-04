@@ -48,7 +48,7 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyakumbar&theme=tokyonight&hide_border=true&v2"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyakumbar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
